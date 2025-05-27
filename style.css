@@ -100,17 +100,17 @@ header {
 
 .logo-container {
   position: absolute;
-  top: 2rem;
+  top: 1rem;
   left: 1rem;
 }
 
 .logo-container-right {
   position: absolute;
-  top: 1rem;
+  top: 0.5rem;
   right: 1rem;
 }
 .logo {
-  width: 350px; /* Adjust size as needed */
+  width: 300px; /* Adjust size as needed */
   height: auto;
 }
 
